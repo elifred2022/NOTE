@@ -68,3 +68,67 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# clase videom 5; componentes y elementos en react
+
+# clase video 6; maquetacion todo machine
+
+# clase video 7; CSS en React
+
+# case video 8; Manejo de eventos
+
+# clase video 9; manejo del estado
+
+# Clase video 10; contando y buscando todos
+
+# clase video 11; Completando y eliminando TODOs
+
+# clase video 12; organizacion de archivos y carpetas
+
+# clase video 13; Persistencia de datos con Local Storage
+
+localStorage.setItem('TODOS_V1', JSON.stringify(defaultTodos))
+
+localStorage.getItem('TODOS_V1')
+
+# clase video 14; Custom Hook para Local Storage
+
+const [item, setItem] = React.useState(parsedItem); // unos de los hooks de react oficilaes
+
+# CLASE VIDEO 15; MANEJO DEEFECTOS
+
+# clase video 16; React Context: estado compartido
+
+# clase video 17; useContext
+
+# clase video 18; Portales: teletransportación de componentes
+
+# clase video 19; Formulario para crear TODOs
+
+# CLASE VIDEO 22, Deploy con GitHub Pages
+
+
+El shortcut para seleccionar todas las palabras iguales sin seleccionar una por una, es: dar click sobre la palabra (localStorageItem) y luego Ctrl+Shift+L
+
+# HOc hight order component
+wrappedcomponent
+
+# clase sincronizar la app 
+
+# clase reto mensaje de recargar yes
+
+# clase 17 maquetacion 
+
+renders props son mas ordenadas
+preferido del profesro customs hooks
+
+# 17 cambiar hocs por react hooks
+
+# 17 continuamos curso manejo profesional del estado
+
+stirage eventlistenes; es para q en otra ventana te avise que se hiieron cambios en otra ventana
+
+# 17 Migración de useState a useReducer en useLocalStorage
+
+# ver el 18
+
