@@ -31,6 +31,8 @@ function useTodos() {
     });
   }
 
+  // actualizadores 
+
   const addTodo = (text) => {
     const newTodos = [...todos];
     newTodos.push({
@@ -54,23 +56,29 @@ function useTodos() {
     newTodos.splice(todoIndex, 1);
     saveTodos(newTodos);
   };
-  
-  // Retornamos nuestro proveedor con nuestro contexto en la etiqueta value, que recibirá a toda nuestra aplicación, por eso necesitamos la prop children
-  return {
+
+  const state = {
       loading,
       error,
       totalTodos,
       completedTodos,
       searchValue,
-      setSearchValue,
       searchedTodos,
+      openModal,
+  }
+  
+  // Retornamos nuestro proveedor con nuestro contexto en la etiqueta value, que recibirá a toda nuestra aplicación, por eso necesitamos la prop children
+  
+  const stateUpdate = {
+      setSearchValue,
       addTodo,
       completeTodo,
       deleteTodo,
-      openModal,
       setOpenModal,
       sincronizeTodos
     };
+
+    return { state, stateUpdate };
 }
 
 // Exportamos nuestro proveedor y nuestro contexto, en el context también esta el consumer, para acceder a nuestro contexto
