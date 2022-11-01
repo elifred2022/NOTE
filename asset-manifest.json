@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/elifred2022/NOTE.git/static/css/main.7e72918b.chunk.css",
-    "main.js": "/elifred2022/NOTE.git/static/js/main.c4b8e76c.chunk.js",
-    "main.js.map": "/elifred2022/NOTE.git/static/js/main.c4b8e76c.chunk.js.map",
-    "runtime-main.js": "/elifred2022/NOTE.git/static/js/runtime-main.0fe18dd5.js",
-    "runtime-main.js.map": "/elifred2022/NOTE.git/static/js/runtime-main.0fe18dd5.js.map",
-    "static/js/2.ab0cf0ee.chunk.js": "/elifred2022/NOTE.git/static/js/2.ab0cf0ee.chunk.js",
-    "static/js/2.ab0cf0ee.chunk.js.map": "/elifred2022/NOTE.git/static/js/2.ab0cf0ee.chunk.js.map",
-    "index.html": "/elifred2022/NOTE.git/index.html",
-    "static/css/main.7e72918b.chunk.css.map": "/elifred2022/NOTE.git/static/css/main.7e72918b.chunk.css.map",
-    "static/js/2.ab0cf0ee.chunk.js.LICENSE.txt": "/elifred2022/NOTE.git/static/js/2.ab0cf0ee.chunk.js.LICENSE.txt",
-    "static/media/crea.b06737d8.svg": "/elifred2022/NOTE.git/static/media/crea.b06737d8.svg",
-    "static/media/equis.08233535.svg": "/elifred2022/NOTE.git/static/media/equis.08233535.svg"
+    "main.css": "/NOTE/static/css/main.7e72918b.chunk.css",
+    "main.js": "/NOTE/static/js/main.f5488b70.chunk.js",
+    "main.js.map": "/NOTE/static/js/main.f5488b70.chunk.js.map",
+    "runtime-main.js": "/NOTE/static/js/runtime-main.76b36e64.js",
+    "runtime-main.js.map": "/NOTE/static/js/runtime-main.76b36e64.js.map",
+    "static/js/2.9a1f324e.chunk.js": "/NOTE/static/js/2.9a1f324e.chunk.js",
+    "static/js/2.9a1f324e.chunk.js.map": "/NOTE/static/js/2.9a1f324e.chunk.js.map",
+    "index.html": "/NOTE/index.html",
+    "static/css/main.7e72918b.chunk.css.map": "/NOTE/static/css/main.7e72918b.chunk.css.map",
+    "static/js/2.9a1f324e.chunk.js.LICENSE.txt": "/NOTE/static/js/2.9a1f324e.chunk.js.LICENSE.txt",
+    "static/media/crea.b06737d8.svg": "/NOTE/static/media/crea.b06737d8.svg",
+    "static/media/equis.08233535.svg": "/NOTE/static/media/equis.08233535.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0fe18dd5.js",
-    "static/js/2.ab0cf0ee.chunk.js",
+    "static/js/runtime-main.76b36e64.js",
+    "static/js/2.9a1f324e.chunk.js",
     "static/css/main.7e72918b.chunk.css",
-    "static/js/main.c4b8e76c.chunk.js"
+    "static/js/main.f5488b70.chunk.js"
   ]
 }
